@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "KRSU": {
+      "commandName": "Project"
+    },
+    "CATS": {
+      "commandName": "Project",
+      "commandLineArgs": "CATS CATS.zip"
+    },
+    "PCMS2": {
+      "commandName": "Project",
+      "commandLineArgs": "PCMS2 PCMS2.zip --all"
+    },
+    "EJUDGE": {
+      "commandName": "Project",
+      "commandLineArgs": "EJUDGE EJUDGE.zip"
+    }
+  }
+}
